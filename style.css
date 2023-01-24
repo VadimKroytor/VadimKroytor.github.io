@@ -253,16 +253,13 @@ body {
 }
 
 
-@media(max-width: 550px) {
+@media(max-width:625px) {
     #intro-name {
-        padding-left: 0px;
         display: block;
         text-align: center;
     }
     
     #intro-description {
-        padding-right: 0px;
-        
         text-align: center;
        
     }
@@ -270,7 +267,7 @@ body {
     #welcome-section {
         padding-left: 0px;
         padding-right: 0px;
-        width: 375px;
+       
         
     }
 }
